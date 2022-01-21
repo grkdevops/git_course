@@ -42,4 +42,4 @@ git branch --set-upstream-to=origin/master master
 git branch <branch_name> // to create a new branch
 git checkout -b <branch_name> // to create new branch and switch to branch 
 git merge <source_branch> <dest_branch> 
-git branch -d <branch_name> // to delete a branch
+git branch -d <branch_name> // to delete a branchh
